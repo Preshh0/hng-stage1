@@ -2,5 +2,15 @@
   "dependencies": {
     "cors": "^2.8.5",
     "express": "^4.18.2"
-  }
+  },
+  "name": "hng-stage1",
+  "version": "1.0.0",
+  "main": "app.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
 }
